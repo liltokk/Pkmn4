@@ -5,24 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b31cb6a2-90cd-4338-8bb0-34c8a0c347fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grimmsnarl.crd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magmortar.crd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/AttackSkill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/EnergyType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/KozlovAR/CardExport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/KozlovAR/CardImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/KozlovAR/PkmnApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/PokemonStage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/impidmp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/morgrem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/my_card.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/AttackSkill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/AttackSkill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/EnergyType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/EnergyType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/KozlovAR/CardExport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/KozlovAR/CardExport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/KozlovAR/CardImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/KozlovAR/CardImport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/KozlovAR/PkmnApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/KozlovAR/PkmnApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/PokemonStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/PokemonStage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/mirea/pkmn/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/impidmp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/impidmp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/morgrem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/morgrem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/my_card.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/my_card.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "liltokk"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/liltokk/Pkmn.git",

@@ -1,0 +1,12 @@
+1. STAGE1
+2. Morgrem
+3. 90
+4. DARKNESS
+5. src\main\resources\impidmp.txt
+6. D / Bite / 30, 2D / False Surrender / 60
+7. GRASS
+8. -
+9. 2
+10. Rebel Clash
+11. C
+12.

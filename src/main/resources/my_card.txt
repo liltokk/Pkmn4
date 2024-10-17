@@ -1,0 +1,12 @@
+1. STAGE2
+2. Grimmsnarl
+3. 160
+4. DARKNESS
+5. src\main\resources\morgrem.txt
+6. D / Longhair Shot / 30, 1D / Darkness Fang / 110
+7. GRASS
+8. -
+9. 2
+10. BrilliantStars
+11. F
+12. Козлов / Артём / Романович / БСБО-05-23

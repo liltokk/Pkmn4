@@ -1,9 +1,8 @@
-package ru.mirea.KozlovAR.pkmn;
+package ru.mirea.pkmn.KozlovAR;
 
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
+import ru.mirea.pkmn.Card;
+
 import java.io.IOException;
-import java.io.ObjectOutputStream;
 
 public class PkmnApplication {
     public static void main(String[] args) throws IOException {
@@ -14,6 +13,8 @@ public class PkmnApplication {
         exp.exportCard(card);
 
         card = imp.importCardByte("Grimmsnarl.crd");
-        System.out.printf(card.toString());
+        System.out.println(card.toString());
+        Card card1 = imp.importCardByte("Magmortar.crd");
+        System.out.println(card1.toString());
     }
 }
